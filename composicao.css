@@ -12,6 +12,10 @@ p {
   line-height: 1.5rem;
 }
 
+div.base {
+  width: 960px; margin: auto;
+  } 
+
 .base {
   background-color: #eeeeee;
 }
